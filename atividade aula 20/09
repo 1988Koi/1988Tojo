@@ -1,0 +1,48 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNx4VPgDqfIFuO9jTNpXyWB",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/1988Koi/1988Tojo/blob/main/atividade%20aula%2020/09\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "p9SZTqqOn5SC"
+      },
+      "outputs": [],
+      "source": [
+        "x = 0\n",
+        "r = 0\n",
+        "\n",
+        "x = float(input('digite um numero inteiro '))\n",
+        "if (x % 3 == 0):\n",
+        "        print ('multiplo')\n",
+        "else:\n",
+        "        print ('nao multiplo')\n"
+      ]
+    }
+  ]
+}
